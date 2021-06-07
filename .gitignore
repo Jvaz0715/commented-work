@@ -1,0 +1,5 @@
+/node_modules
+
+.env
+
+# git ignore a does not let our node modules and env data get pushed to public repositories
